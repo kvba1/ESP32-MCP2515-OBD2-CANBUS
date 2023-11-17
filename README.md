@@ -1,5 +1,5 @@
 # ESP32-MCP2515-OBD2-CANBUS
-This repository contains code and documentation for a vehicle diagnostics tool that interfaces with the On-Board Diagnostics II (OBD-II) system using an MCP2515 CAN Controller and an Arduino microcontroller. The project aims to read real-time vehicle data such as speed, engine RPM, and coolant temperature directly from the vehicle's OBD-II port.
+This repository contains code and documentation for a vehicle diagnostics tool that interfaces with the On-Board Diagnostics II (OBD-II) system using an MCP2515 CAN Controller and an ESP32 microcontroller. The project aims to read real-time vehicle data such as speed, engine RPM, and coolant temperature directly from the vehicle's OBD-II port.
 
 Key Features:
 
